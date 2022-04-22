@@ -8,5 +8,6 @@ public class Gittet {
         System.out.println("hello git4");
         System.out.println("master test");
         System.out.println("push hellotest");
+        System.out.println("pull hellotest");
     }
 }
